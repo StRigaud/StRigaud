@@ -5,6 +5,34 @@ I am research engineer at the [Pasteur Institut of Paris](https://www.pasteur.fr
 ---
 ## Github Stats
 
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr style="padding: 1; border: none;">
+    <td style="padding: 1; border: none;" width="50%">
+      <picture>
+        <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=strigaud&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)" /> 
+        <source
+        srcset="https://github-readme-stats.vercel.app/api?username=strigaud&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=strigaud&show_icons=true" style="width:100%; height:auto;" />
+    </picture>
+    </td>
+    <td style="padding: 1; border: none;" width="50%">
+      <picture>
+        <source 
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strigaud&layout=compact&count_private=true&theme=dark#gh-dark-mode-only"
+        media="(prefers-color-scheme: dark)" />
+        <source
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strigaud&layout=compact&count_private=true&theme=default#gh-light-mode-only"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strigaud&layout=compact&count_private=true&theme=default"   style="width:100%; height:auto;" />
+    </picture>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 ## Open Source Projects
@@ -25,4 +53,29 @@ I am active on the forum of the [image.sc](https://forum.image.sc) which gather 
 </br></br></br>
 Otherwise I am also active on the follwing social network:
 
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr style="padding: 1; border: none;">
+    <td style="padding: 1; border: none;" width="25%">
+      <a href="https://twitter.com/strigaud">
+        <img src="https://img.shields.io/twitter/url?label=%40strigaud&style=social&url=https%3A%2F%2Ftwitter.com%2Fstrigaud" alt="Twitter" style="width:100%"> 
+    </a>
+    </td>
+    <td style="padding: 1; border: none;" width="25%">
+      <a href="https://qoto.org/@strigaud">
+        <img src="https://img.shields.io/twitter/url?label=%40strigaud&logo=mastodon&style=social&url=https%3A%2F%2Forcid.org%2F0000-0003-2161-0927" alt="mastodon" style="width:100%"> 
+    </a>
+    </td>
+    <td style="padding: 1; border: none;" width="25%">
+      <a href="https://github.com/StRigaud">
+        <img src="https://img.shields.io/twitter/url?label=%40strigaud&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2FStRigaud" alt="github" style="width:100%"> 
+    </a>
+    </td>
+    <td style="padding: 1; border: none;" width="21%" heig>
+      <a href="https://orcid.org/0000-0003-2161-0927">
+        <img src="https://img.shields.io/twitter/url?label=ORCID&logo=orcid&style=social&url=https%3A%2F%2Forcid.org%2F0000-0003-2161-0927" alt="ORCID" style="width:100%"> 
+    </a>
+    </td>
+  </tr>
+</table>
 
