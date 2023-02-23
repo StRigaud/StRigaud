@@ -50,28 +50,30 @@ I am currently participating in the development of the [clEsperanto](https://git
 ## Contacts & social networks
 
 I am active on the forum of the [image.sc](https://forum.image.sc) which gather the community of bio-image analysts. Do not hesitate to pass by if you need help or if you want to discuss about image processing applied to biology.
-</br></br></br>
-Otherwise I am also active on the follwing social network:
-
-
+</br>
 <table border="0" cellpadding="0" cellspacing="0">
   <tr style="padding: 1; border: none;">
-    <td style="padding: 1; border: none;" width="25%">
+    <td style="padding: 1; border: none;" width="53%">
+      <a>
+        Otherwise I am also active on the follwing social network:
+</a>
+    </td>
+    <td style="padding: 1; border: none;" width="12%">
       <a href="https://twitter.com/strigaud">
         <img src="https://img.shields.io/twitter/url?label=%40strigaud&style=social&url=https%3A%2F%2Ftwitter.com%2Fstrigaud" alt="Twitter" style="width:100%"> 
     </a>
     </td>
-    <td style="padding: 1; border: none;" width="25%">
+    <td style="padding: 1; border: none;" width="12%">
       <a href="https://qoto.org/@strigaud">
         <img src="https://img.shields.io/twitter/url?label=%40strigaud&logo=mastodon&style=social&url=https%3A%2F%2Forcid.org%2F0000-0003-2161-0927" alt="mastodon" style="width:100%"> 
     </a>
     </td>
-    <td style="padding: 1; border: none;" width="25%">
+    <td style="padding: 1; border: none;" width="12%"
       <a href="https://github.com/StRigaud">
         <img src="https://img.shields.io/twitter/url?label=%40strigaud&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2FStRigaud" alt="github" style="width:100%"> 
     </a>
     </td>
-    <td style="padding: 1; border: none;" width="21%" heig>
+    <td style="padding: 1; border: none;" width="12%" heig>
       <a href="https://orcid.org/0000-0003-2161-0927">
         <img src="https://img.shields.io/twitter/url?label=ORCID&logo=orcid&style=social&url=https%3A%2F%2Forcid.org%2F0000-0003-2161-0927" alt="ORCID" style="width:100%"> 
     </a>
