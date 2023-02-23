@@ -5,33 +5,6 @@ I am research engineer at the [Pasteur Institut of Paris](https://www.pasteur.fr
 ---
 ## Github Stats
 
-<style>
-  .row {
-    display: flex;
-    align-items: center;
-  }
-  .column {
-    flex-basis: 0;
-    flex-grow: 1;
-    padding: 10px;
-    text-align: center;
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-
-<div class="row">
-  <div class="column" style="display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=strigaud&show_icons=true&count_private&theme=dark#gh-dark-mode-only" alt="stats dark" style="width:100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=strigaud&show_icons=true&count_private&theme=default#gh-light-mode-only" alt="stats dark" style="width:100%">
-  </div>
-  <div class="column" style="display:inline-block;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strigaud&layout=compact&count_private=true&theme=dark#gh-dark-mode-only" alt="language dark" style="width:100%">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strigaud&layout=compact&count_private=true&theme=default#gh-light-mode-only" alt="language dark" style="width:100%">
-  </div>
-</div> 
 
 ---
 ## Open Source Projects
@@ -52,26 +25,4 @@ I am active on the forum of the [image.sc](https://forum.image.sc) which gather 
 </br></br></br>
 Otherwise I am also active on the follwing social network:
 
-<div align="center" class="row2">
-  <div class="column2" style="display:inline-block;">
-    <a href="https://twitter.com/strigaud">
-        <img src="https://img.shields.io/twitter/url?label=%40strigaud&style=social&url=https%3A%2F%2Ftwitter.com%2Fstrigaud" alt="Twitter" style="width:100%"> 
-    </a>
-  </div>
-  <div class="column2" style="display:inline-block;">
-    <a href="https://qoto.org/@strigaud">
-        <img src="https://img.shields.io/twitter/url?label=%40strigaud&logo=mastodon&style=social&url=https%3A%2F%2Forcid.org%2F0000-0003-2161-0927" alt="mastodon" style="width:100%"> 
-    </a>
-  </div>
-  <div class="column2" style="display:inline-block;">
-    <a href="https://github.com/StRigaud">
-        <img src="https://img.shields.io/twitter/url?label=%40strigaud&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2FStRigaud" alt="github" style="width:100%"> 
-    </a>
-  </div>
-  <div class="column2" style="display:inline-block;">
-    <a href="https://orcid.org/0000-0003-2161-0927">
-        <img src="https://img.shields.io/twitter/url?label=ORCID&logo=orcid&style=social&url=https%3A%2F%2Forcid.org%2F0000-0003-2161-0927" alt="ORCID" style="width:100%"> 
-    </a>
-  </div>
-</div> 
 
