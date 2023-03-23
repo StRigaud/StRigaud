@@ -10,7 +10,7 @@ I am research engineer at the [Pasteur Institut of Paris](https://www.pasteur.fr
     <td style="padding: 1; border: none;" width="50%">
       <picture>
         <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=strigaud&show_icons=true&theme=dark"
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=strigaud&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)" /> 
         <source
         srcset="https://github-readme-stats.vercel.app/api?username=strigaud&show_icons=true"
